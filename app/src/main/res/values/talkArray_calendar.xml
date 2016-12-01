@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="talkArray_calendar">
+        <item>안녕하세요~</item>
+        <item>무엇을 도와드릴까요?</item>
+        <item>지금의 저는 너무 허접해요..</item>
+        <item>무슨 말을 해야 할까요?</item>
+        <item>지혜누나는 짱이에요!</item>
+        <item>별거 없어보여도 저 무거운 앱이에요..</item>
+        <item>덩기덕~쿵더러더러~</item>
+        <item>네!!</item>
+        <item>그만 눌러요!</item>
+    </string-array>
+</resources>

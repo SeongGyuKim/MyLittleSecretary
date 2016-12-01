@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="talkArray_list">
+        <item>히익~ 일정이 이렇게나!</item>
+        <item>이 많은 일정중에 하나만 알려 드릴 수 있다니..</item>
+        <item>까먹지 마세요!</item>
+        <item>되게 바쁜 것 같아요</item>
+        <item>부르셨나요?</item>
+        <item>푸쉬 알림! 잘 들으세요~</item>
+        <item>쿵쾅쿵쾅</item>
+        <item>네!!</item>
+        <item>그만 눌러요!</item>
+    </string-array>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="talkArray_Enter">
+        <item>안녕하세요~</item>
+        <item>제가 잘 기억하고 있을게요~</item>
+        <item>애플펜~~ 파인애플펜~~</item>
+        <item>중요한 일정일까요?</item>
+        <item>뭘봐</item>
+        <item>이 화면이 제일 복잡해요</item>
+        <item>트와이스가 너무 이뻐요</item>
+        <item>우와! 일정이다!</item>
+        <item>까먹지 말아요!</item>
+    </string-array>
+</resources>
